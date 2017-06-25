@@ -1,0 +1,5 @@
+Matrix A is 7000-by-7000
+Matrix B is 7000-by-7000
+Matrix C is 7000-by-7000
+Computation time in the CPU: 0.000001 seconds
+Computation time in the GPU: 9.233961 seconds

@@ -1,0 +1,4 @@
+Matrix A is 4000-by-4000
+Matrix B is 4000-by-4000
+Matrix C is 4000-by-4000
+Computation time in the GPU: 1.743885 seconds

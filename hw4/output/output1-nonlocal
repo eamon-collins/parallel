@@ -1,0 +1,4 @@
+threads: 1
+Grid: 10000x10000, Iterations: 10000
+
+Execution time: 2196 seconds

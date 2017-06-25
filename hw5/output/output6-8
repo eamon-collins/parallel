@@ -1,0 +1,4 @@
+Matrix A is 6000-by-6000
+Matrix B is 6000-by-6000
+Matrix C is 6000-by-6000
+Computation time in the GPU: 3.843874 seconds

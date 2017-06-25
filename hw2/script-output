@@ -1,0 +1,188 @@
+slurmstepd: execve(): module: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+srun: error: udc-ba33-4g: task 0: Exited with exit code 2
+srun: error: udc-ba33-4g: task 0: Exited with exit code 2
+slurmstepd: execve(): module: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646034/slurm_script: line 41: blender: command not found
+/var/spool/slurm/slurmd/job646035/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+ls: cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/var/spool/slurm/slurmd/job646036/slurm_script: line 41: blender: command not found
+/var/spool/slurm/slurmd/job646037/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*ls: cannot access frames/star-collapse_*: No such file or directory
+: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/var/spool/slurm/slurmd/job646039/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646038/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/var/spool/slurm/slurmd/job646040/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+slurmstepd: execve(): module: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646041/slurm_script: line 41: blender: command not found
+/var/spool/slurm/slurmd/job646042/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*ls: : No such file or directorycannot access frames/star-collapse_*
+: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646043/slurm_script: line 41: blender: command not found
+ls: srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646044/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646045/slurm_script: line 41: blender: command not found
+slurmstepd: execve(): module: No such file or directory
+ls: slurmstepd: execve(): module: No such file or directory
+cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/bin/mkdir: srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+cannot create directory `/tmp/ec3bd'srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646046/slurm_script: line 41: blender: command not found
+: File exists/var/spool/slurm/slurmd/job646048/slurm_script: line 41: blender: command not found
+srun: error: udc-ba33-4g: task 0: Exited with exit code 1
+
+ls: cannot access frames/star-collapse_*: No such file or directory
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+srun: error: udc-ba33-4g: task 0: Exited with exit code 1
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646047/slurm_script: line 41: blender: command not found
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+slurmstepd: execve(): module: No such file or directory
+ls: slurmstepd: execve(): module: No such file or directory
+cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/var/spool/slurm/slurmd/job646049/slurm_script: line 41: blender: command not found
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646050/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+ls: cannot access frames/star-collapse_*: No such file or directory
+slurmstepd: execve(): module: No such file or directory
+/var/spool/slurm/slurmd/job646051/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/bin/mkdir: srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+srun: error: udc-ba33-22h: task 0: Exited with exit code 2
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/bin/mkdir: /bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/bin/mkdir: srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: cannot create directory `/tmp/ec3bd/646052'srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+: No such file or directory
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-4g: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/bin/mkdir: /bin/mkdir: cannot create directory `/tmp/ec3bd/646053': No such file or directory
+cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-4g: task 0: Exited with exit code 1
+/bin/mkdir: /bin/mkdir: /bin/cp: cannot create directory `/tmp/ec3bd': File existscannot create regular file `/tmp/ec3bd/646052/Star-collapse-ntsc.blend'srun: error: udc-ba33-4g: task 0: Exited with exit code 1
+cannot create directory `/tmp/ec3bd': No such file or directory
+
+: File exists
+/var/spool/slurm/slurmd/job646052/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646053/Star-collapse-ntsc.blend': No such file or directory
+/bin/mkdir: srun: error: udc-ba33-4g: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646053/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+cannot create directory `/tmp/ec3bd'/bin/mkdir: : File existssrun: error: udc-ba33-22h: task 0: Exited with exit code 1
+
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/bin/mkdir: cannot create directory `/tmp/ec3bd': File exists
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646054/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646055/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646057/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646056/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646060/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646058/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646059/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646061/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646064/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646065/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646062/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646066/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/var/spool/slurm/slurmd/job646067/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646068/Star-collapse-ntsc.blend': No such file or directory
+/var/spool/slurm/slurmd/job646063/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646069/Star-collapse-ntsc.blend': No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646070/Star-collapse-ntsc.blend': No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646068/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646071/Star-collapse-ntsc.blend': No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646069/slurm_script: line 41: blender: command not found
+/var/spool/slurm/slurmd/job646070/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646072/Star-collapse-ntsc.blend': No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646071/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646072/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory
+/bin/cp: cannot create regular file `/tmp/ec3bd/646073/Star-collapse-ntsc.blend': No such file or directory
+srun: error: udc-ba33-22h: task 0: Exited with exit code 1
+/var/spool/slurm/slurmd/job646073/slurm_script: line 41: blender: command not found
+ls: cannot access frames/star-collapse_*: No such file or directory

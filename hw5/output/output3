@@ -1,0 +1,6 @@
+Matrix A is 3000-by-3000
+Matrix B is 3000-by-3000
+Matrix C is 3000-by-3000
+Computation time in the CPU: 96.264783 seconds
+Computation time in the GPU: 0.729556 seconds
+Computation is correct: CPU and GPU outputs match
